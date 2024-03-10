@@ -1,3 +1,6 @@
+// if name is Robert Brett Rose so output is  R.B.Roser
+
+
 import java.util.Scanner;
 
 //if string is Krishna Radha so output will be K.Radha
@@ -29,7 +32,7 @@ public class Print_name {
         }
         return newString;
     }
-
+//main function
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
